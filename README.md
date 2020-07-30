@@ -11,11 +11,11 @@ This app keeps track of all your tasks.
 
 ## Features
 
-- [x] Feature 1
+- [x] Feature 1 - 
 Swipable Cells using CocoaPods (SwipeCellKit)
-- [x] Feature 2
+- [x] Feature 2 -
 Color framework using CocoaPods (ChameleonFramework)
-- [x] Feature 3
+- [x] Feature 3 -
 Realm Database Local Persistence
 
 
