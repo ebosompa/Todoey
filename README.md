@@ -12,5 +12,6 @@ A todolist app to keep track of all your tasks.
 
 ## Gif
 
+https://github.com/ebosompa/Todoey/Todoey.git
 
 
