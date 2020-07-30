@@ -16,10 +16,12 @@ This app keeps track of all your tasks.
 ## Features
 
 - [x] Feature 1
+Swipable Cells using CocoaPods (SwipeCellKit)
 - [x] Feature 2
+Color framework using CocoaPods (ChameleonFramework)
 - [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
+Realm Database Local Persistence
+
 
 ## Requirements
 
@@ -29,38 +31,13 @@ This app keeps track of all your tasks.
 ## Installation
 
 #### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
+You can use [CocoaPods](http://cocoapods.org/) to install 
 
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
+'Chameleon Framework'
+'Realm'
+'SwipeCellKit'
 
-To get the full benefits import `YourLibrary` wherever you import UIKit
 
-``` swift
-import UIKit
-import YourLibrary
-```
-#### Carthage
-Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios) to add `$(SRCROOT)/Carthage/Build/iOS/YourLibrary.framework` to an iOS project.
-
-```
-github "yourUsername/yourlibrary"
-```
-#### Manually
-1. Download and drop ```YourLibrary.swift``` in your project.  
-2. Congratulations!  
-
-## Usage example
-
-```swift
-import EZSwiftExtensions
-ez.detectScreenShot { () -> () in
-    print("User took a screen shot")
-}
-```
 
 ## Meta
 
