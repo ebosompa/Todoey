@@ -1,5 +1,5 @@
 # Todoey
-> To use Realm to persist Data in iOS
+> To use Realm to persist Data in iOS.
 This app keeps track of all your tasks.
 
 [![Swift Version][swift-image]][swift-url]
