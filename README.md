@@ -9,7 +9,7 @@ This app keeps track of all your tasks.
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-One to two paragraph statement about your product and what it does.
+<img src='Todoey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ![](header.png)
 
@@ -62,17 +62,11 @@ ez.detectScreenShot { () -> () in
 }
 ```
 
-## Contribute
-
-We would love you for the contribution to **YourLibraryName**, check the ``LICENSE`` file for more info.
-
 ## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/ebosompa/github-link](https://github.com/dbader/)
+[https://github.com/ebosompa/github-link](https://github.com/ebosompa/)
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
