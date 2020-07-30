@@ -37,7 +37,7 @@ You can use [CocoaPods](http://cocoapods.org/) to install
 
 ## Meta
 
-[https://github.com/ebosompa/github-link](https://github.com/ebosompa/)
+[https://github.com/ebosompa](https://github.com/ebosompa/)
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
