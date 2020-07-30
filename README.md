@@ -10,8 +10,7 @@ To use Realm to persist Data in IOS
 
 A todolist app to keep track of all your tasks.
 
-## Gif
+## Video Walkthrough
 
-https://github.com/ebosompa/Todoey/blob/master/Todoey.gif
-
+<img src='Todoey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
