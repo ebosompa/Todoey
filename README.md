@@ -3,11 +3,7 @@
 This app keeps track of all your tasks.
 
 [![Swift Version][swift-image]][swift-url]
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <img src='Todoey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -40,8 +36,6 @@ You can use [CocoaPods](http://cocoapods.org/) to install
 
 
 ## Meta
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/ebosompa/github-link](https://github.com/ebosompa/)
 
