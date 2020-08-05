@@ -1,19 +1,50 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Todoey
+> To use Realm to persist Data in iOS.
+This app keeps track of all your tasks.
+
+[![Swift Version][swift-image]][swift-url]
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
+
+<img src='Todoey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![](header.png)
+
+## Features
+
+- [x] Feature 1 - 
+Swipable Cells using CocoaPods (SwipeCellKit)
+- [x] Feature 2 -
+Color framework using CocoaPods (ChameleonFramework)
+- [x] Feature 3 -
+Realm Database Local Persistence
 
 
-# Todoey ✓
+## Requirements
 
-## Our Goal
+- iOS 9.0+
+- Xcode 11.5
 
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
+## Installation
+
+#### CocoaPods
+You can use [CocoaPods](http://cocoapods.org/) to install 
+
+'Chameleon Framework'
+'Realm'
+'SwipeCellKit'
 
 
-## What you will create
 
-A todolist app to keep track of all your tasks.
+## Meta
 
+[https://github.com/ebosompa](https://github.com/ebosompa/)
 
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+[swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
+[swift-url]: https://swift.org/
+[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
+[license-url]: LICENSE
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
+[codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
 
